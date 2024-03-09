@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "seacommon": "^1.0.1",
+    "socks-proxy-agent": "^8.0.2"
+  },
+  "name": "seahttp",
+  "version": "1.0.1",
+  "description": "http helper",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sea2016new/seahttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sea2016new/seahttp/issues"
+  },
+  "homepage": "https://github.com/sea2016new/seahttp#readme"
+}
